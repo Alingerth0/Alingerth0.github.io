@@ -1,0 +1,8 @@
+{
+  "licencias": [
+    { "rif": "J-88888888-8", "caja": "1", "code": "adc77be7",
+      "version": "v20220728", "activo": true, "vence": "2027-12-31" },
+     { "rif": "J-00000000", "caja": "1", "code": "e1e3362e",
+      "version": "v20220728", "activo": true, "vence": "2027-12-31" }
+  ]
+}

@@ -78,6 +78,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J999333888",
+      "caja": "1",
+      "code": "47aced68",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

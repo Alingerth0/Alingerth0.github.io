@@ -94,6 +94,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J403871566",
+      "caja": "2",
+      "code": "e4e7b757",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

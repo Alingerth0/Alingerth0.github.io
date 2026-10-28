@@ -118,6 +118,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "V114852003",
+      "caja": "1",
+      "code": "1ed8f5da",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

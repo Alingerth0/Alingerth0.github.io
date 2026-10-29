@@ -158,6 +158,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J-505946277",
+      "caja": "5",
+      "code": "184148af",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

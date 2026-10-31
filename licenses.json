@@ -72,22 +72,6 @@
       "activo": true
     },
     {
-      "rif": "V29683593",
-      "caja": "1",
-      "code": "8f0d9c01",
-      "version": "v20220921",
-      "activo": true,
-      "autoactiva": true
-    },
-    {
-      "rif": "V29683593",
-      "caja": "2",
-      "code": "8f0d9c01",
-      "version": "v20220921",
-      "activo": true,
-      "autoactiva": true
-    },
-    {
       "rif": "J403871566",
       "caja": "1",
       "code": "e4e7b757",

@@ -166,6 +166,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J508636767",
+      "caja": "1",
+      "code": "08cbb4d7",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

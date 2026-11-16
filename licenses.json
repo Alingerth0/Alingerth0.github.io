@@ -182,6 +182,22 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "V225644957",
+      "caja": "1",
+      "code": "25033d19",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
+    },
+    {
+      "rif": "V225644957",
+      "caja": "2",
+      "code": "25033d19",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

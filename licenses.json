@@ -206,6 +206,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "V172720508",
+      "caja": "1",
+      "code": "bc4a1b6c",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

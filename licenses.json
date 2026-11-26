@@ -222,6 +222,14 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J-123000123",
+      "caja": "1",
+      "code": "481977f4",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }

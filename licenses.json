@@ -220,7 +220,7 @@
       "caja": "1",
       "code": "d0ec3c59",
       "version": "v20220921",
-      "activo": true,
+      "activo": false,
       "autoactiva": true
     }
   ]

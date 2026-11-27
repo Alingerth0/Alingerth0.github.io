@@ -222,6 +222,22 @@
       "version": "v20220921",
       "activo": true,
       "autoactiva": true
+    },
+    {
+      "rif": "J406222682",
+      "caja": "1",
+      "code": "ed2af6ee",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
+    },
+    {
+      "rif": "J406222682",
+      "caja": "2",
+      "code": "ed2af6ee",
+      "version": "v20220921",
+      "activo": true,
+      "autoactiva": true
     }
   ]
 }
